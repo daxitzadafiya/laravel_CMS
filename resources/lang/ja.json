@@ -1,0 +1,15 @@
+{
+    "Incorrect login credentials.": "ログイン情報が正しくありません",
+    "Company not connected.": "会社が'disconnect'状態です。事務局にお問い合わせ下さい。",
+    "Password reset link sent to your email.": "パスワード・リセットURLを登録メールアドレスに送信しました。60分以内に再設定を完了して下さい。",
+    "Unable to send password reset link.": "パスワード・リセットURLを送信することができません",
+    "Incorrect or expired token.": "無効なTokenです",
+    "Password reset successfully.": "パスワードを更新しました！",
+    "FL ratio updated successfully.": "FL比率の目標値を更新しました！",
+    "Goals updated successfully.": "売上目標を更新しました！",
+    "User profile updated successfully.": "プロフィールを更新しました！",
+    "Thank you for contacting us.": "お問い合わせありがとうございます。",
+    "User preferences updated successfully.": "通知設定を更新しました！",
+    "This email address already exists.": "このメールアドレスは存在しています！",
+    "Password updated successfully.": "パスワードを更新しました！"
+}
